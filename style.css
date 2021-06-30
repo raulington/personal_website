@@ -52,11 +52,18 @@ body {
 }
 
 .sidebar {
+    display: flex;
     background-color: white;
     border-radius: 5px;
     box-shadow: 5px 5px 10px skyblue;
-    align-content: center;
-    padding-right: 10px;
+    align-items: center;
+    justify-content: center;
+    padding-right: 10p
+}
+
+.sidebar ul {
+    margin: 0;
+    padding: 10px;
 }
 
 .bio_content {
@@ -70,14 +77,13 @@ body {
 }
 
 .profile_picture {
+    padding-right: 2px;
     margin-bottom: 10px;
-    margin-left: -30px;
-    padding: 10px;
 }
 
 .profile_picture img{
-    max-width: 150px;
-    height: 150px;
+    max-width: 100px;
+    height: 100px;
     border-radius: 50%;
     object-fit: cover;
 }
@@ -106,4 +112,9 @@ body {
     width: auto;
     height: auto;
     padding: 10px;
+}
+
+.resume_pdf {
+    width: 100%;
+    height: 650px;
 }
