@@ -86,16 +86,6 @@ body {
     cursor: pointer;
 }
 
-footer {
-    color: white;
-    position: absolute;
-    bottom: 0;  
-    width: 95%;  
-    text-align: center;
-    height: 10px;
-    text-shadow: 2px 2px 2px skyblue;
-}
-
 .project_container {
     display: grid;
     grid-gap: 20px;
