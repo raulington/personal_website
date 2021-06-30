@@ -88,6 +88,8 @@ body {
 
 .name {
     margin-left: 15px;
+    margin-bottom: 0;
+    padding-bottom: 0;
     color: white;
     text-shadow: 2px 2px 2px skyblue;
 }
