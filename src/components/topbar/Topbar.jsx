@@ -10,10 +10,6 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             Raul Higareda
           </a>
           <div className="itemContainer">
-            <Person className="icon" />
-            <span>512-888-5741</span>
-          </div>
-          <div className="itemContainer">
             <Mail className="icon" />
             <a href="mailto: raul.d.higareda@gmail.com">raul.d.higareda@gmail.com</a>
           </div>
