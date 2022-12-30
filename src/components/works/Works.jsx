@@ -27,9 +27,18 @@ export default function Works() {
       icon: "./assets/paint.png",
       title: "Artsi",
       desc:
-        "I made website that acts as an entry point into the creation of drawings by providing lesson videos and drawing spaces that allows users to follow along. Currently constructed the basic design layout of the website and drawing spaces. Made with Javascript, React, and CSS.",
+        "I made website that acts as an entry point into the creation of drawings by providing lesson videos and drawing spaces that allows users to follow along. Constructed the design layout of the website and drawing spaces. Made with Javascript, React, and CSS.",
       img:
         "./assets/artsi.png",
+    },
+    {
+      id: "4",
+      icon: "./assets/phone.png",
+      title: "Social Media Visualizer",
+      desc:
+        "A team and I used the betweenness centrality algorithm to determine the most influential person on the Facebook dataset. We utilized Dijkstra’s to find the number of connections between a random user to the most influential user.",
+      img:
+        "./assets/ssv.png",
     },
   ];
 

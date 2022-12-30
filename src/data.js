@@ -21,14 +21,16 @@ export const featuredPortfolio = [
       img:
         "./assets/artsi.png",
       link:
-        "https://github.com/raulington/Artsi",
+        "https://github.com/CS222-UIUC/course-project-group-32",
     },
-    // {
-    //   id: 4,
-    //   title: "Relax Mobile App",
-    //   img:
-    //     "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
-    // },
+    {
+      id: 4,
+      title: "Social Media Visualizer",
+      img:
+        "./assets/ssv.png",
+      link:
+        "https://github.com/raulington/Social-Media-Group-Visualizer",
+    },
     // {
     //   id: 5,
     //   title: "Hero Web Design",
