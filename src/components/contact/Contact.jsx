@@ -16,7 +16,7 @@ export default function Contact() {
       <div className="right">
         <h2>Resume</h2><br></br>
         <object data="./assets/raul_higareda_resume.pdf" type="application/pdf" width="100%" height="80%">
-      <p>A link <a href="./assets/raul_higareda_resume.pdf">to the PDF!</a></p>
+      <p>A link <a href="./assets/rauldhigareda.pdf">to the PDF!</a></p>
   </object>
       </div>
       {/* <div className="right">
